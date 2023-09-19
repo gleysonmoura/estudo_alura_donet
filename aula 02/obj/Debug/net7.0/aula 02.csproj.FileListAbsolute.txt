@@ -1,0 +1,14 @@
+C:\Estudo_dotnet\estudo_alura_donet\aula 02\bin\Debug\net7.0\aula 02.exe
+C:\Estudo_dotnet\estudo_alura_donet\aula 02\bin\Debug\net7.0\aula 02.deps.json
+C:\Estudo_dotnet\estudo_alura_donet\aula 02\bin\Debug\net7.0\aula 02.runtimeconfig.json
+C:\Estudo_dotnet\estudo_alura_donet\aula 02\bin\Debug\net7.0\aula 02.dll
+C:\Estudo_dotnet\estudo_alura_donet\aula 02\bin\Debug\net7.0\aula 02.pdb
+C:\Estudo_dotnet\estudo_alura_donet\aula 02\obj\Debug\net7.0\aula 02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudo_dotnet\estudo_alura_donet\aula 02\obj\Debug\net7.0\aula 02.AssemblyInfoInputs.cache
+C:\Estudo_dotnet\estudo_alura_donet\aula 02\obj\Debug\net7.0\aula 02.AssemblyInfo.cs
+C:\Estudo_dotnet\estudo_alura_donet\aula 02\obj\Debug\net7.0\aula 02.csproj.CoreCompileInputs.cache
+C:\Estudo_dotnet\estudo_alura_donet\aula 02\obj\Debug\net7.0\aula 02.dll
+C:\Estudo_dotnet\estudo_alura_donet\aula 02\obj\Debug\net7.0\refint\aula 02.dll
+C:\Estudo_dotnet\estudo_alura_donet\aula 02\obj\Debug\net7.0\aula 02.pdb
+C:\Estudo_dotnet\estudo_alura_donet\aula 02\obj\Debug\net7.0\aula 02.genruntimeconfig.cache
+C:\Estudo_dotnet\estudo_alura_donet\aula 02\obj\Debug\net7.0\ref\aula 02.dll
